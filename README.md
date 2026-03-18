@@ -1,4 +1,5 @@
 THIS CODE HAS COMPLETELY BEEN WRITTEN "WITHOUT" THE USE OF AI.I HAVE JUST USED STACK OVERFLOWS AND GOOGLE FOR HELP. 
+<BR>
 YOU SHOULDNT DIG THE GROUND WITH A SPOON WHEN YOU CAN HAVE THE JCB DO IT FOR YOU..... BUT JUST TO MAKE SURE THAT IF THE JCB FAILS SOMEDAY OR STOPS WORKING SOMEDAY I SHOULD STILL BE ABLE TO DIG THE GROUND!!!
-
+<BR>
  I have built a not so pretty looking paytm like application in REACT + NODEJS which ofcourse has many improvisations , built this to build my muscle memory and write code without using AI . 
